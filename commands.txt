@@ -1,0 +1,3 @@
+pip install azure-iothub-service-client
+
+pip install paho-mqtt
